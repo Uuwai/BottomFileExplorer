@@ -1,3 +1,3 @@
 # BottomFileExplorer
 
-![preview](preview.gif "Title")
+![preview](explorer_nrTZgrno31.gif "Preview")
